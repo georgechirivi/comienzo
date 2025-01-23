@@ -1,0 +1,11 @@
+cd desktop
+mkdir comienzo
+cd comienzo
+pip install virtualenv
+virtualenv env
+cd env
+cd script
+activate
+cd ../..
+generar archivo .gitignore se busca en google gitignore python y se pega
+
