@@ -8,4 +8,5 @@ cd script
 activate
 cd ../..
 generar archivo .gitignore se busca en google gitignore python y se pega
-
+pip install -r requirements.txt
+django-admin startproject core .
